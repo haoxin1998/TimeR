@@ -1,4 +1,4 @@
-# Rec4Time: Comparing 
+# Rec4Time: Comparing reasoning strategies for time-series forecasting
 
 Rec4Time is a framework for evaluating the performance of large language models (LLMs) on time series forecasting tasks. It supports both unimodal and multimodal prediction approaches with various prompting techniques.
 
