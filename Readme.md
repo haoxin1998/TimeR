@@ -62,7 +62,7 @@ python A_Run_Exp.py --future_months 6 --data_ids 0 1 2 --llm_ids 0 --multimodal 
 |----------|-------------|---------|
 | `--future_months` | List of future months to predict | `[6]` |
 | `--data_ids` | List of dataset IDs to use | `[0]` |
-| `--llm_ids` | List of LLM IDs to use | `[0]` |
+| `--llm_ids` | List of LLM IDs to use 0-OpenAI, 1-Gemini, 2-DeepSeek | `[0]` |
 | `--multimodal` | Whether to run multimodal experiments (0=No, 1=Yes) | `[0, 1]` |
 | `--repeat_times` | Number of times to repeat each experiment | `3` |
 | `--lookback_window_size` | Size of historical data window | `96` |
