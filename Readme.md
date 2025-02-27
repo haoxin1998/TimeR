@@ -92,9 +92,9 @@ The following sytem 1 and system 2 models are supported:
 
 | ID | Models |
 |----|--------------|
-| 0 | OpenAI (GPT-4o & o1-mini) |
-| 1 | Google (Gemini-2.0-flash-thinking & Gemini-2.0-flash-001) |
-| 2 | DeepSeek (deepseek-v3 & deepseek-r1) |
+| 0 | OpenAI (System 1: GPT-4o & Sytem 2: o1-mini) |
+| 1 | Google (System 1:  Gemini-2.0-flash & System 2:Gemini-2.0-flash-thinking) |
+| 2 | DeepSeek (System 1: Deepseek-v3 & System 2: Deepseek-R1) |
 
 ## Reasoning Strategies
 
