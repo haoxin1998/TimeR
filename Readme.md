@@ -13,7 +13,9 @@ REC4TS covers three cognitive systems: Direct Sytem 1 (e.g. gpt-4o) ; the test-t
 3. Multimodal TSF benefits more from reasoning strategies than unimodal TSF
 4. The TimeT-hinking dataset:  containing reasoning trajectories of multiple advanced LLMs
 5. A new and simple test-time scaling on foundation time-series models：based on self-consistency reasoning strategies and inspired by our insights
-   
+   <div align="center">
+    <img src="(https://github.com/AdityaLab/OpenTimeR/blob/main/Picture/Overall_Result_1.pdf" width="800">
+</div>
 ## Additional Toolkits
 
 - **TimeThinking**: Contains 1.5K filtered reasoning-annotated time series forecasting samples.
