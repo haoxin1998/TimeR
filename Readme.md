@@ -5,10 +5,11 @@ REC4TS covers three cognitive systems: Direct Sytem 1 (e.g. gpt-4o) ; the test-t
 <div align="center">
     <img src="https://github.com/AdityaLab/OpenTimeR/blob/main/Picture/reasoning_system.jpg" width="800">
 </div>
+
 ## Key  Insights
 
-0. Good News: reasoning is helpful for zero-shot TSF!
-1. Self-consistency is currently the most effective reasoning strategy
+### Good News: reasoning is helpful for zero-shot TSF!
+### Self-consistency is currently the most effective reasoning strategy
 2. Group-relative policy optimization is the best-performing System 2 reasoning method
 3. Multimodal TSF benefits more from reasoning strategies than unimodal TSF
 4. The TimeT-hinking dataset:  containing reasoning trajectories of multiple advanced LLMs
@@ -16,6 +17,7 @@ REC4TS covers three cognitive systems: Direct Sytem 1 (e.g. gpt-4o) ; the test-t
    <div align="center">
     <img src="https://github.com/AdityaLab/OpenTimeR/blob/main/Picture/Overall_Result_1.png" width="800">
 </div>
+
 ## Additional Toolkits
 
 - **TimeThinking**: Contains 1.5K filtered reasoning-annotated time series forecasting samples.
