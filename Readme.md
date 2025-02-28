@@ -1,4 +1,10 @@
-# Rec4TS: Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time-Series Forecasting
+<p align="center">
+  <img src="https://github.com/AdityaLab/OpenTimeR/blob/main/Picture/Logo-2-Rec4TS.jpg" alt="Rec4TS-Logo" style="width: 15%; display: block; margin: auto;">
+</p>
+
+<h1 align="center">🔥 Rec4TS: Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time-Series Forecasting 🔥</h1>
+
+
 
 REC4TS is the first benchmark that evaluates the effectiveness of reasoning strategies for zero-shot time series forecasting (TSF) tasks
 REC4TS covers three cognitive systems: Direct Sytem 1 (e.g. gpt-4o) ; the test-time enhanced System 1 (e.g., gpt-4o with Chain-of-Thought ) and System 2 (e.g. o1-mini).
