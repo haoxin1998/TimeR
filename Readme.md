@@ -1,16 +1,16 @@
 # Rec4TS: Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time-Series Forecasting
 
-REC4TS is the first benchmark framework that systematically evaluates the effectiveness of reasoning strategies in zero-shot time series forecasting (TSF) tasks
-REC4TS covers three cognitive systems: Direct Sytem 1 g(e.g. gpt-4o) ; the test-time enhanced System 1 (e.g., gpt-4o with Chain-of-Thought ) and System 2 (e.g. o1-mini).
+REC4TS is the first benchmark that evaluates the effectiveness of reasoning strategies fpr zero-shot time series forecasting (TSF) tasks
+REC4TS covers three cognitive systems: Direct Sytem 1 (e.g. gpt-4o) ; the test-time enhanced System 1 (e.g., gpt-4o with Chain-of-Thought ) and System 2 (e.g. o1-mini).
 
 ## Key  Insights
 
 0. Good News: reasoning is helpful for zero-shot TSF!
-1. Self-consistency is currently the most effective test-time reasoning strategy
+1. Self-consistency is currently the most effective reasoning strategy
 2. Group-relative policy optimization is the best-performing System 2 reasoning method
 3. Multimodal TSF benefits more from reasoning strategies than unimodal TSF
-4. Provides the TimeT-hinking dataset, containing reasoning trajectories of multiple advanced LLMs
-5. Validates a new test-time scaling law based on self-consistency reasoning strategies on foundation time-series models
+4. The TimeT-hinking dataset:  containing reasoning trajectories of multiple advanced LLMs
+5. A new and simple test-time scaling on foundation time-series models：based on self-consistency reasoning strategies and inspired by our insights
    
 ## Additional Toolkits
 
