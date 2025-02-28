@@ -12,9 +12,9 @@ REC4TS is the first benchmark that evaluates the effectiveness of reasoning stra
 
 Specifically, REC4TS try to answer two research questions:
 
--**RQ1: Can zero-shot TSF benefit from enhanced reasoning ability?
+-**RQ1: Can zero-shot TSF benefit from enhanced reasoning ability?**
 
--**RQ2: What kind of reasoning strategies does zero-shot TSF need?”
+-**RQ2: What kind of reasoning strategies does zero-shot TSF need?**
 
 REC4TS covers three cognitive systems: Direct Sytem 1 (e.g. gpt-4o) ; the test-time enhanced System 1 (e.g., gpt-4o with Chain-of-Thought ) and System 2 (e.g. o1-mini).
 
