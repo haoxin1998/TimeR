@@ -162,4 +162,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 
-This project is licensed under the [CC-BY](https://creativecommons.org/licenses/by/4.0/) (Creative Commons Attribution 4.0 International) license. This license allows users to share and adapt your dataset as long as they give credit to you.
+This project is licensed under the [CC-BY](https://creativecommons.org/licenses/by/4.0/) (Creative Commons Attribution 4.0 International) license.
