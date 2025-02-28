@@ -2,7 +2,9 @@
 
 REC4TS is the first benchmark that evaluates the effectiveness of reasoning strategies fpr zero-shot time series forecasting (TSF) tasks
 REC4TS covers three cognitive systems: Direct Sytem 1 (e.g. gpt-4o) ; the test-time enhanced System 1 (e.g., gpt-4o with Chain-of-Thought ) and System 2 (e.g. o1-mini).
-
+<div align="center">
+    <img src="https://github.com/AdityaLab/OpenTimeR/blob/main/Picture/reasoning_system.jpg" width="500">
+</div>
 ## Key  Insights
 
 0. Good News: reasoning is helpful for zero-shot TSF!
