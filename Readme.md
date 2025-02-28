@@ -77,14 +77,14 @@ The following datasets are available:
 
 | ID | Dataset Name |
 |----|--------------|
-| 0 | the US Disaster and Emergency Grant |
-| 1 | the US Drought Level |
-| 2 | the US Inflation Rate |
-| 3 | the US Interest Rate |
-| 4 | the US Retail Sales |
-| 5 | the US Stock Market Index |
-| 6 | the US Unemployment Rate |
-| 7 | the US Travel Volume |
+| 0 | Retail Broiler Composit|
+| 1 | Drought Level |
+| 2 | International Trade Balance |
+| 3 | Gasoline Prices |
+| 4 | Influenza Patients Proportio  |
+| 5 | Disaster and Emergency Grant|
+| 6 | Unemployment Rate |
+| 7 | Travel Volume |
 
 ## LLM IDs
 
@@ -94,7 +94,7 @@ The following sytem 1 and system 2 models are supported:
 |----|--------------|
 | 0 | OpenAI (System 1: GPT-4o & Sytem 2: o1-mini) |
 | 1 | Google (System 1:  Gemini-2.0-flash & System 2:Gemini-2.0-flash-thinking) |
-| 2 | DeepSeek (System 1: Deepseek-v3 & System 2: Deepseek-R1) |
+| 2 | DeepSeek (System 1: DeepSeek-v3 & System 2: DeepSeek-R1) |
 
 ## Reasoning Strategies
 
