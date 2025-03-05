@@ -159,6 +159,26 @@ LLM_list = ['openai/gpt-4o-2024-05-13', "google/gemini-2.0-flash-001", "deepseek
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Citation
+
+If you find this repo useful, please cite our paper.
+
+```
+@misc{liu2025evaluating1vs2,
+      title={Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time-Series Forecasting: A Benchmark and Insights}, 
+      author={Haoxin Liu and Zhiyuan Zhao and Shiduo Li and B. Aditya Prakash},
+      year={2025},
+      eprint={2503.01895},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.01895}, 
+}
+```
+
+## Contact
+If you have any questions or suggestions, feel free to contact:
+hliu763@gatech.edu
+
 ## License
 
 
