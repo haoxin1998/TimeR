@@ -3,9 +3,7 @@
 </p>
 
 <h1 align="center">🔥 Rec4TS: Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time-Series Forecasting 🔥</h1>
-<p align="center">
-  <a href="https://arxiv.org/abs/2503.01895"><img src="https://img.shields.io/badge/arXiv-2503.01895-b31b1b.svg" alt="arXiv"></a>
-</p>
+
 
 
 REC4TS is the first benchmark that evaluates the effectiveness of reasoning strategies for zero-shot time series forecasting (TSF) tasks.
